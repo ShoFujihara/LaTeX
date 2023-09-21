@@ -1,0 +1,3 @@
+¥usepackage{natbib}
+¥bibliographystyle{asr}
+¥newcommand*{¥citepp}[1]{¥footnotesize ¥textcolor{gray}{¥citep{#1}}¥normalsize}
